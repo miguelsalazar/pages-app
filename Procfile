@@ -1,1 +1,1 @@
-web: guinicorn pages_project.wsgi --log-gile -
+web: gunicorn pages_project.wsgi --log-gile -
